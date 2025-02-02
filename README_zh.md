@@ -3,7 +3,7 @@
 ![MORPH-LEGO-LOGO](https://via.placeholder.com/150x50?text=🤖+🧩+🌈)  
 *你使用 AI，你选择组件，你编织规则，M.O.R.P.H 让你成为 AI 的主人。*
 
-English [version](README.md)
+[English](README.md) version
 
 ## 已完成内容
 - [x] 新建文件夹
