@@ -3,7 +3,7 @@
 ![MORPH-LEGO-LOGO](https://via.placeholder.com/150x50?text=🤖+🧩+🌈)  
 *Your AI, Your Blocks, Your Rules. M.O.R.P.H empowers you to master AI.*
 
-[Simplified Chinese](README_zh.md) version
+[简体中文](README_zh.md) version
 
 ## Completed Tasks
 - [x] Folder created
